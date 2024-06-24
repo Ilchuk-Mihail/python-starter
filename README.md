@@ -1,4 +1,4 @@
 # python-starter
 
 
-Simple api boilerplate - todo app.
+Boilerplate API - simple todo application.
